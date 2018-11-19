@@ -42,6 +42,8 @@ To get the latest version of laravel-themes simply require it in your `composer.
 ~~~json
 "facuz/laravel-themes": "^3.1"
 ~~~
+or
+composer require facuz/laravel-themes
 
 You'll then need to run `composer install` to download it and have the autoloader updated.
 
